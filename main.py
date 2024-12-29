@@ -1,3 +1,6 @@
+# arb-bg-remover <https://github.com/ARIBUDEV/arb-bg-remover>
+# Licensed under the MIT License.
+
 import os
 import customtkinter as ctk
 from CTkMessagebox import CTkMessagebox
